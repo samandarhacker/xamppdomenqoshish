@@ -1,4 +1,4 @@
-
+<html>
     <style>
         h1{
             color: red;
@@ -24,3 +24,4 @@
     <p><strong>5</strong>. project manzili misol: D://dasturlar/xampp/htdocs/myapp/example/ </p>
     <br>
     <h2>Eslatma: bu dastur windowsda ishlaydi!</h2>
+</html>
